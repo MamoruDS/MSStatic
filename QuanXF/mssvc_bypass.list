@@ -1,2 +1,5 @@
 HOST,sub.mamoru.workers.dev,direct
 HOST,sdk.mamorudev.com,direct
+HOST,mcsn20a0.cu.mamorudev.com,direct
+HOST,mcsn20a0.ct.mamorudev.com,direct
+HOST,mcsn20a0.cm.mamorudev.com,direct
